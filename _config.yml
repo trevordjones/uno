@@ -1,8 +1,8 @@
 # Site settings
 title: Trevor Jones
 description: My musings - interesting to me, hopefully will be for you
-url: 'https://trevordjones.github.io/uno/'
-baseurl: '/uno/'
+url: 'http://trevordjones.com/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: trevordjones
 
