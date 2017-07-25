@@ -2,6 +2,7 @@
 title: Trevor Jones
 description: My musings - interesting to me, hopefully will be for you
 url: 'http://trevordjones.com/'
+base_url: '/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: trevordjones
